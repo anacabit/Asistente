@@ -1,0 +1,26 @@
+{
+  "name": "Mi Asistente",
+  "short_name": "Asistente",
+  "description": "Todo lo que necesitas, fácil y seguro",
+  "start_url": "/Asistente/",
+  "scope": "/Asistente/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f0f4ff",
+  "theme_color": "#1a56db",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/Asistente/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/Asistente/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
